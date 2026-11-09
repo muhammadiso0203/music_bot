@@ -1,0 +1,15 @@
+# maxfiy sozlamalar (token!)
+.env
+instagram_cookies.txt
+
+# baza va vaqtinchalik fayllar
+cache.db
+downloads/
+.ytdlp_cache/
+venv/
+__pycache__/
+*.pyc
+
+# Windows uchun ffmpeg (serverda apt orqali o'rnatiladi)
+ffmpeg/
+musicbot_server.zip
